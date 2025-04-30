@@ -67,7 +67,7 @@ The prediction is displayed in the form of expected traffic levels (e.g., Light,
 ## User Authentication
 
 - **Google OAuth**: Users can log in using their Google accounts to access the platform securely.
-- After logging in, users can access the traffic prediction and simulation features.
+- Users can access the traffic prediction and simulation features after logging in.
 - The logout option is available, redirecting users to the welcome page.
 
 ## Future Enhancements
@@ -88,3 +88,8 @@ Feel free to contribute to this project by forking the repository, creating an i
 ---
 
 If you encounter any issues or have suggestions for improvements, please open an issue in the repository or contact us directly.
+Hackathon Project 
+Contributors:
+Garima Taneja
+Rudra Mukherjee 
+Aarushi Agarwal 
